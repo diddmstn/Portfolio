@@ -11,7 +11,10 @@ Unity Portfolio
 #### 제작기간
 - 2022.9 ~ 2023.9
 #### 제작인원
-- 5명(기획자 1명, 아트 3명, 프로그래머 1명) 
+- 5명(기획자 1명, 아트 3명, 프로그래머 1명)
+##### 물 리소스 출처
+- https://www.youtube.com/watch?v=69sBjqMtZCc&t=599s
+- https://github.com/MemoryLeakHub/Water2D-Unity
 ## Morpho
 #### 설명
 - 파란 나비 Morpho가 서재에서 시간대를 옮겨가며 퍼즐을 풀고 나가는 간단한 3D퍼즐 게임입니다.
